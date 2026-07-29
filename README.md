@@ -1,6 +1,3 @@
-Here's a comprehensive README.md file for your GitHub repository:
-
-```markdown
 # Scene-Aware Human-Centric Real-Time Safety Monitoring System
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
@@ -56,7 +53,7 @@ This project supports research on:
 
 ## 🏗️ System Architecture
 
-```
+```text
 ┌─────────────────────────────────────────────────────────────┐
 │                     Frontend (React + Vite)                  │
 │  ┌──────────┐ ┌──────────┐ ┌──────────┐ ┌──────────────┐  │
@@ -217,7 +214,7 @@ VITE_API_URL=http://localhost:8000
 
 ## 📂 Project Structure
 
-```
+```text
 scene-aware-safety-system/
 ├── frontend/                    # React + Vite frontend
 │   ├── src/
